@@ -1,0 +1,5 @@
+# Phase III sources
+
+Assessed 24 September 2026. [Official-format user-supplied Telangana RERA PrintPreview](sources/telangana-rera-print-2026-09-24.pdf), printed 24 September 2026, 18 pages. It names Vazhraa Prathik Phase-III, Vazhraa Nirmaan Private Limited, Nizampet/Bachupally and HMDA plan `007737/BP/HMDA/1887/MED/2024`. The printed header omits its registration ID. The user-supplied [Prathik brochure](../vazhraa-prathik-combined/sources/vazhraa-prathik-brochure-user-supplied-2026-09-24.pdf) prints P02200010864, and [Housing](https://housing.com/in/buy/hyderabad/nizampet-gid/projects/vazhraa-prathik-275627-pid/) lists all three IDs; obtain the current certificate for direct official confirmation.
+
+Shared [legal orders, web sources, provenance and gaps](../vazhraa-prathik-combined/sources.md). The June 2025 RERA rejection concerned an **earlier application**; later registration appears in the supplied filing/marketing, but terms of resolution and current court status were not verified.
